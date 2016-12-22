@@ -1,0 +1,11 @@
+Package: GelitoMain
+Type: Package
+Title: Main class for Gelito
+Version: 0.1
+Date: 2016-12-13
+Author: Manuel Ramón Gutiérrez Covarrubias
+Maintainer: Manuel Ramón Gutiérrez Covarrubias <mgutierrezco@uoc.edu>
+Description: Main class for using with Gelito package
+License: GPL
+LazyData: TRUE
+Imports: WriteXLS
