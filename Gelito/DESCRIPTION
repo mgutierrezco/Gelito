@@ -1,0 +1,13 @@
+Package: Gelito
+Type: Package
+Title: Gene List Tools
+Version: 0.1.0
+Author: Manuel Ramón Gutiérrez Covarrubias
+Maintainer: Manuel Ramón Gutiérrez Covarrubias <mgutierrezco@uoc.edu>
+Description: Class with methods for creation and management gene lists.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  GelitoMain,
+  venn

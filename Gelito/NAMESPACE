@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "rainbow")
+importFrom("utils", "read.table")
+importFrom("GelitoMain","GelitoMain")
